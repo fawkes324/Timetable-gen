@@ -1,0 +1,181 @@
+Section,Day,Period,Subject,Teacher
+1,Monday,1,English,Eve
+1,Monday,2,Chemistry,David
+1,Monday,3,Art,Harper
+1,Monday,4,English,Michael
+1,Monday,5,Computer Science,Brooklyn
+1,Monday,6,Math,Aria
+1,Monday,7,Math,Brooklyn
+1,Monday,8,Biology,Alice
+1,Monday,9,Computer Science,Brooklyn
+1,Tuesday,1,Computer Science,James
+1,Tuesday,2,Math,Samuel
+1,Tuesday,3,Physics,Henry
+1,Tuesday,4,Physical Education,Mila
+1,Tuesday,5,Physical Education,Henry
+1,Tuesday,6,Chemistry,David
+1,Tuesday,7,Geography,Lily
+1,Tuesday,8,History,Zoe
+1,Tuesday,9,Music,Elijah
+1,Wednesday,1,Math,Noah
+1,Wednesday,2,Physics,Henry
+1,Wednesday,3,Art,Harper
+1,Wednesday,4,Chemistry,Daniel
+1,Wednesday,5,English,Lucas
+1,Wednesday,6,History,Jacob
+1,Wednesday,7,Art,Lucas
+1,Wednesday,8,Literature,Aubrey
+1,Wednesday,9,Computer Science,Grace
+1,Thursday,1,Chemistry,Aiden
+1,Thursday,2,Literature,Ella
+1,Thursday,3,Geography,William
+1,Thursday,4,Statistics,Ava
+1,Thursday,5,Biology,Michael
+1,Thursday,6,Chemistry,David
+1,Thursday,7,History,Jacob
+1,Thursday,8,Math,Bob
+1,Thursday,9,History,Mia
+1,Friday,1,History,Sophia
+1,Friday,2,Biology,William
+1,Friday,3,Physics,Henry
+1,Friday,4,History,Sebastian
+1,Friday,5,Economics,Benjamin
+1,Friday,6,Physical Education,Elijah
+1,Friday,7,Physics,David
+1,Friday,8,Statistics,Matthew
+1,Friday,9,Math,Brooklyn
+2,Monday,1,Music,Nora
+2,Monday,2,Geography,Alice
+2,Monday,3,Physics,Henry
+2,Monday,4,Biology,Alice
+2,Monday,5,Economics,Liam
+2,Monday,6,Computer Science,Bob
+2,Monday,7,Biology,Samuel
+2,Monday,8,Physics,Ella
+2,Monday,9,Economics,Aubrey
+2,Tuesday,1,Psychology,Amelia
+2,Tuesday,2,English,Jackson
+2,Tuesday,3,History,Sebastian
+2,Tuesday,4,Math,Grace
+2,Tuesday,5,Biology,Alice
+2,Tuesday,6,Literature,Sophia
+2,Tuesday,7,History,Jacob
+2,Tuesday,8,Math,Grace
+2,Tuesday,9,Literature,Ella
+2,Wednesday,1,Music,Nora
+2,Wednesday,2,Physics,Carter
+2,Wednesday,3,Geography,William
+2,Wednesday,4,Physics,Frank
+2,Wednesday,5,Music,Mia
+2,Wednesday,6,Literature,Aubrey
+2,Wednesday,7,Computer Science,James
+2,Wednesday,8,Physical Education,Riley
+2,Wednesday,9,Computer Science,Bob
+2,Thursday,1,Physics,David
+2,Thursday,2,English,Lucas
+2,Thursday,3,English,Lucas
+2,Thursday,4,Literature,Sophia
+2,Thursday,5,Music,Sebastian
+2,Thursday,6,Biology,Chloe
+2,Thursday,7,English,Gabriel
+2,Thursday,8,Math,Noah
+2,Thursday,9,Literature,Amelia
+2,Friday,1,Music,Sebastian
+2,Friday,2,Geography,Carter
+2,Friday,3,Computer Science,Grace
+2,Friday,4,Psychology,Jacob
+2,Friday,5,Biology,Charlie
+2,Friday,6,English,Hannah
+2,Friday,7,Physical Education,Henry
+2,Friday,8,Biology,William
+2,Friday,9,Music,Elijah
+3,Monday,1,Physics,Charlotte
+3,Monday,2,Chemistry,Charlie
+3,Monday,3,Physics,Frank
+3,Monday,4,Psychology,Amelia
+3,Monday,5,Physics,Carter
+3,Monday,6,Biology,William
+3,Monday,7,Math,Noah
+3,Monday,8,Math,Bob
+3,Monday,9,Economics,Aubrey
+3,Tuesday,1,Geography,Carter
+3,Tuesday,2,Literature,Amelia
+3,Tuesday,3,Statistics,Ava
+3,Tuesday,4,Chemistry,Aria
+3,Tuesday,5,Biology,Charlie
+3,Tuesday,6,Statistics,Ava
+3,Tuesday,7,Psychology,Amelia
+3,Tuesday,8,History,Sebastian
+3,Tuesday,9,Chemistry,David
+3,Wednesday,1,Statistics,Ava
+3,Wednesday,2,Statistics,Harper
+3,Wednesday,3,Physical Education,Elijah
+3,Wednesday,4,Psychology,Olivia
+3,Wednesday,5,Geography,Jackson
+3,Wednesday,6,Statistics,Matthew
+3,Wednesday,7,Physics,Henry
+3,Wednesday,8,Computer Science,Grace
+3,Wednesday,9,Physics,David
+3,Thursday,1,Art,Gabriel
+3,Thursday,2,English,Hannah
+3,Thursday,3,Math,Scarlett
+3,Thursday,4,Physical Education,Elijah
+3,Thursday,5,Math,Aria
+3,Thursday,6,History,Jacob
+3,Thursday,7,Art,Isabella
+3,Thursday,8,Music,Mia
+3,Thursday,9,Art,Zoe
+3,Friday,1,English,Eve
+3,Friday,2,Physical Education,Noah
+3,Friday,3,History,Jacob
+3,Friday,4,History,Zoe
+3,Friday,5,Geography,Frank
+3,Friday,6,Literature,Amelia
+3,Friday,7,Geography,Carter
+3,Friday,8,Physics,Ella
+3,Friday,9,Physical Education,Noah
+4,Monday,1,Physical Education,Mila
+4,Monday,2,Geography,Carter
+4,Monday,3,Geography,Daniel
+4,Monday,4,English,Jackson
+4,Monday,5,Literature,Amelia
+4,Monday,6,Economics,Benjamin
+4,Monday,7,History,Isabella
+4,Monday,8,English,Hannah
+4,Monday,9,Economics,Benjamin
+4,Tuesday,1,Psychology,Matthew
+4,Tuesday,2,Computer Science,Aiden
+4,Tuesday,3,Music,Sebastian
+4,Tuesday,4,English,Hannah
+4,Tuesday,5,Physical Education,Noah
+4,Tuesday,6,Art,Harper
+4,Tuesday,7,Computer Science,Grace
+4,Tuesday,8,Psychology,Matthew
+4,Tuesday,9,Psychology,Olivia
+4,Wednesday,1,Geography,Jackson
+4,Wednesday,2,Geography,Carter
+4,Wednesday,3,Physical Education,Elijah
+4,Wednesday,4,Economics,Lily
+4,Wednesday,5,Biology,Oliver
+4,Wednesday,6,Biology,Oliver
+4,Wednesday,7,Computer Science,Grace
+4,Wednesday,8,Literature,Sophia
+4,Wednesday,9,Economics,Liam
+4,Thursday,1,Chemistry,David
+4,Thursday,2,Physical Education,Riley
+4,Thursday,3,Physics,Charlotte
+4,Thursday,4,History,Sophia
+4,Thursday,5,Literature,Ella
+4,Thursday,6,Geography,William
+4,Thursday,7,History,Mia
+4,Thursday,8,History,Isabella
+4,Thursday,9,Physics,Ella
+4,Friday,1,Computer Science,Grace
+4,Friday,2,Computer Science,Bob
+4,Friday,3,History,Sebastian
+4,Friday,4,Art,Lucas
+4,Friday,5,Physical Education,Elijah
+4,Friday,6,Geography,Daniel
+4,Friday,7,Computer Science,Aiden
+4,Friday,8,Psychology,Matthew
+4,Friday,9,Chemistry,Daniel
